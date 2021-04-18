@@ -1,0 +1,30 @@
+2021-04-18 12:32:24.467 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:32:24.568 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:32:24.595 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
+2021-04-18 12:33:42.418 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:33:42.422 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:33:42.425 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
+2021-04-18 12:33:42.834 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:33:42.839 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:33:42.842 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
+2021-04-18 12:34:18.060 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:34:18.062 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:34:18.064 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
+2021-04-18 12:34:18.476 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:34:18.479 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:34:18.481 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
+2021-04-18 12:34:18.825 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:34:18.829 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:34:18.833 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
+2021-04-18 12:34:44.351 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:34:44.354 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:34:44.356 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
+2021-04-18 12:34:53.178 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:34:53.181 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:34:53.186 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
+2021-04-18 12:34:53.552 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:34:53.556 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:34:53.559 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
+2021-04-18 12:34:53.820 +03:00 [INF] Home Index Triggered.
+2021-04-18 12:34:53.823 +03:00 [INF] Eren Yılmaz Kullanıcısı Sisteme Giriş Yaptı.
+2021-04-18 12:34:53.826 +03:00 [INF] {"Name":"Eren","Lastname":"Yılmaz","Age":23,"Gender":"Man"} Sisteme Giriş Yaptı
