@@ -20,9 +20,7 @@ namespace Serilog_Seq_Application.Controllers
         {
             _logger = logger;
         }
-
-
-
+        
         [HttpGet]
         public void Index()
         {

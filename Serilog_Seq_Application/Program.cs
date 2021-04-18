@@ -18,8 +18,8 @@ namespace Serilog_Seq_Application
         {
             Log.Logger  = new LoggerConfiguration()
                 .WriteTo.Debug(Serilog.Events.LogEventLevel.Information)
-                .WriteTo.File("Logs/log.txt", rollingInterval: RollingInterval.Day) //HER GÜN ÝÇÝN YENÝ DOSYA OLUÞTUR
-                .WriteTo.Seq("http://localhost:5341/") //LOG SERVER URL
+                .WriteTo.File("Logs/log.txt", rollingInterval: RollingInterval.Day) //HER GUN ICIN YENI DOSYA OLUSTUR
+                .WriteTo.Seq("http://localhost:5341/") //LOG SERVER URL -- SEQ
                 .MinimumLevel.Information()
                 .MinimumLevel.Override("Microsoft", LogEventLevel.Error)
                 .MinimumLevel.Override("System", LogEventLevel.Error)
